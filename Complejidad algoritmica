@@ -1,5 +1,7 @@
-package com.mycompany.mavenproject1;
 
+pregunta 1
+
+paquete com.miempresa.mavenproject1,
 public class NewMain {
     
     private static void intercambia(int x, int y)
@@ -10,3 +12,15 @@ public class NewMain {
         y = aux;
     }
     
+pregunta 2
+
+    private static int max(int x, int y)
+    {
+        int result;
+        if (x >= y)
+            result = x;
+        else
+            result = y;
+        return result;
+    }
+}
