@@ -1,8 +1,0 @@
-  public static void main(String args[]) {
-      int x=30;
-      int y=25;
-      int resultado = Funcion(x,y);
-
-      System.out.println("El resultado es " + resultado);
-    }    
-}    
