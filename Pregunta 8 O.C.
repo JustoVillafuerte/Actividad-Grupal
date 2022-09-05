@@ -1,0 +1,9 @@
+ public static void main(String args[]) {
+      int x=30;
+      int y=25;
+      int[] array123 = new int[]{ 1,2,3,4,5};
+      int resultado = Funcion(array123,5);
+
+      System.out.println("El resultado es " + resultado);
+    } 
+}    
